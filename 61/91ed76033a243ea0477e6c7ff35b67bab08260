@@ -1,0 +1,23 @@
+src/content/docs/realtime/realtimekit/custom-plugins/index.mdx
+  s_4ab9c317e8e137::t_5221091c1a5f1f 14-15
+src/content/docs/realtime/realtimekit/custom-plugins/whiteboard.mdx
+  s_4ab9c317e8e137::t_daf67aa193b028 1-258
+src/content/docs/realtime/realtimekit/platform/data-retention.mdx
+  s_4ab9c317e8e137::t_dedacb8ab4ae35 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6191ed76033a243ea0477e6c7ff35b67bab08260",
+  "prompts": {},
+  "sessions": {
+    "s_4ab9c317e8e137": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f01bf93caffeXvxke4t06tr3Wn",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Ashu Jainvi <ashu@cloudflare.com>"
+    }
+  }
+}
